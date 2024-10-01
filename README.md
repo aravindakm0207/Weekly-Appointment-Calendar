@@ -3,7 +3,7 @@
 )
 
 ## Introduction
-- HealthCare application API built using Node.js, Express, and MongoDB.
+- Weekly-Appointment-Calendar API built using Node.js, Express, and MongoDB.
 - Backend for managing users and appointments, allowing user registration, login, and appointment scheduling.
 
 ## Features
